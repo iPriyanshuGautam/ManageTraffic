@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "engines": {
+    "node": "14.17.5"
+    },
   "dependencies": {
     "body-parser": "^1.18.3",
     "dotenv": "^6.2.0",
@@ -24,8 +27,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "engines": {
-    "node": "14.17.5"
-    }
+  "license": "ISC"
 }
